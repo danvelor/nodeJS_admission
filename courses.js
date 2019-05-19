@@ -32,7 +32,7 @@ let FileCreate = (course,name,idCard) => {
     " con una duración de "+course.term+" "+course.unityTerm + 
     " y un costo de "+course.price+" "+course.unityPrice;
     console.log(texto);
-    fs.writeFile('admission.txt', texto, (err) => {
+    fs.writeFile('admission.log', texto, (err) => {
         if (err) throw (err);
         //console.log('se ha creado el archivo');
     })
