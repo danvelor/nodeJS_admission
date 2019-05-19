@@ -1,0 +1,20 @@
+{
+    "timer": 2000,
+    "messages": {
+        "coursesName": "Nombre del curso: %s"
+    },
+    "options":{
+        "id":{
+            "demand":true,
+            "alias":"i"
+        },
+        "nombre":{
+            "demand":true,
+            "alias":"n"
+        },
+        "cedula":{
+            "demand":true,
+            "alias":"c"
+        }
+    }
+}

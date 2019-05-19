@@ -1,0 +1,15 @@
+{
+  "name": "admissions",
+  "version": "1.0.0",
+  "description": "Primer entregable del curso nodeJS del TdeA",
+  "main": "admission.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Vélez Ortiz danvelor@gmail.com",
+  "license": "ISC"
+}

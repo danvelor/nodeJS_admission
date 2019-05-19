@@ -1,0 +1,25 @@
+[{
+    "id": "1",
+    "name": "Matemáticas",
+    "term": 24,
+    "unityTerm": "Horas",
+    "price": 64000,
+    "unityPrice": "Pesos"
+},
+{
+    "id": "2",
+    "name": "Filosofia",
+    "term": 60,
+    "unityTerm": "Horas",
+    "price": 70000,
+    "unityPrice": "Pesos"
+},
+{
+    "id": "3",
+    "name": "Ingles",
+    "term": 120,
+    "unityTerm": "Horas",
+    "price": 100000,
+    "unityPrice": "Pesos"
+}
+]
